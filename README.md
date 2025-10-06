@@ -162,7 +162,7 @@ Edit `app/globals.css` to customize the color scheme:
 
 ## Deployment
 
-Deploy to Vercel:
+Deploy to Vercel:https://warri-food-app.vercel.app/
 
 \`\`\`bash
 vercel deploy
